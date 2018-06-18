@@ -17,3 +17,49 @@ times faster than classic algorithms and close to those used in Google Maps.
 Through Genome Assembly culminating project at the end of the Specialization,
 you'll learn how to assemble genomes from millions of short pieces and how algorithms fuel recent
 developments in personalized medicine.
+
+The names of code are listed according to week so please look as usual
+All the programs are specifically coded in java.
+Week 1
+ Code
+      1. add.java
+      2.maximum_pairwise_product.java
+ Week 2
+ Code:
+      1 Fibonacci.java
+      2 FibonacciHuge.java
+      3 FibonacciLastDigit.java
+      4 FibonacciPartialSum.java
+      5 FibonacciSumLastDigit.java
+      6 GCD.java
+      7 LCM.java
+      8 FibonacciSumSquares.java
+Week 3
+   Code:
+      1.Change.java
+      2.FractionalKnapsack.java
+      3.DotProduct.java
+      4.CoveringSegments.java
+      5.DifferentSummands.java
+      6.LargestNumber.java
+Week 4
+    Code:
+        1 BinarySearch1.java
+        2 MajorityElement.java
+        3 Sorting.java
+        4 Inversions.java
+        5 PointsAndSegments.java
+        6 Closest.java
+Week 5
+     Code:
+         1  coin.java
+         2  PrimitiveCalculator1.java
+         3  EDIST.java
+         4  longest_common_subsequence_of_two_sequences.java
+         5  LCS3.java
+ Week 6
+      Code:
+          1 Knapsack.java
+          2 Partition.java
+          3 PlacingParentheses.java
+        
